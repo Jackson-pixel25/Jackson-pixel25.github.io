@@ -1,6 +1,6 @@
 ---
 Title: Jackson Hilton - Meet the Writer
-Date: 2024-03-04 06:30 +0000
+Date: 2024-03-05 12:22 +0000
 categories: [golf, introduction]
 tags: [profile, alabama, golf]
 authors: [<Hilton>] 
