@@ -1,6 +1,6 @@
 ---
 Title: Welcome to Tide On Tour!
-Date: 2024-03-03 09:53 +0000
+Date: 2024-03-05 12:21 +0000
 categories: [alabama, golf]
 tags: [pga, college, alabama, golf]
 authors: [<Hilton>, <Luddy>] 
