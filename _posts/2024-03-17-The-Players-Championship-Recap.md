@@ -22,13 +22,15 @@ If that's not impressive enough for you, how about this: _Scheffler is the first
 The run that Scheffler has been on is nothing short of incredible, and this is off the "worst putting performances" of his career in 2023 through the early '24 season. With a Sunday 64 that didn't force any playoff ([Sorry Wyndham](https://youtube.com/shorts/JGeW0nAigsE?si=4xiHDZ9aAjSBHqQD)), Scottie gained a total of +7.10(!) strokes on the field total for round 4. Below is a breakdown of Scheffler's round 4 strokes gained, and the strokes gained for the entire event.
 
 _Strokes Gained Round 4:_
+
 | SG PUTT | SG ARG | SG APP | SG OTT | SG T2G | SG TOTAL |
-|---------|--------|--------|--------|--------|----------|
+|:--------|:-------|:-------|:-------|:-------|---------:|
 | +0.61   | +0.87  | +2.88  | +2.73  | +6.48  | +7.10    |
 
 _Strokes Gained for the entire tournament:_
+
 | SG PUTT | SG ARG | SG APP | SG OTT | SG T2G | SG TOTAL |
-|---------|--------|--------|--------|--------|----------|
+|:--------|:-------|:-------|:-------|:-------|---------:|
 | +0.32   | +0.77  | +1.59  | +1.61  | +3.97  | +4.30    |
 
 So what can we learn from this? Well right off the bat, Scheffler didn't putt out of his mind this week at TPC. The leader in SG Putting for the week was Sahith Theegala with a +2.11, _54 spots_ ahead of Scheffler. Even when he needed to make critical putts on Sunday Scheffler still finished 29th in SG Putting for round 4; the leader on Sunday being Matt Fitzpatrick with a +2.90 SG.  
