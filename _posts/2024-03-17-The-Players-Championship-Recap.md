@@ -13,7 +13,7 @@ The PGA Tour had a much needed electric week on the golf course at TPC Sawgrass.
 With a jam-packed leaderboard all weekend, the unofficial 5th major just gave us all another reason as to why it stands out from the rest. Xander Schauffele and Wyndham Clark ~~got their asses ran down~~ had no answer for Scottie Scheffler who fired a flawless Sunday 64 to win from 5 back. 
 
 ## Scheffler Makes History on Sunday
-There aren't many feats in golf that haven't been claimed by Tiger Woods in the modern game. However this week, Scottie Scheffler gets to claim a unique title the big cat never could: _Scheffler is the first ever defending champion at The Players Championship._ Before yesterday, no defending champion had finished their next Players appearance at better than -10 (Webb Simpson after his win) or in the top 5. 
+There aren't many feats in golf that haven't been claimed by Tiger Woods in the modern game. However this week, Scottie Scheffler gets to claim a unique title the big cat never could: _Scheffler is the first ever defending champion to go back-to-back at The Players Championship._ Before yesterday, no defending champion had finished their next Players appearance at better than -10 (Webb Simpson after his win) or in the top 5. 
 
 If that's not impressive enough for you, how about this: _Scheffler is the first ever golfer to have back-to-back title defenses, with a successfully defended win at Bay Hill and TPC Sawgrass in 2024._
 
