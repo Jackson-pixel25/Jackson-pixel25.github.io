@@ -1,9 +1,9 @@
 ---
-Title: 
-Date:
-Categories:
-tags:
-author: 
+Title: Writer Profile RJ Luddy
+Date: 2024-03-21 02:45 +0000
+categories: [golf, introduction]
+tags: [profile, alabama, golf]
+author: [Luddy]
 ---
 
 ## Welcome
