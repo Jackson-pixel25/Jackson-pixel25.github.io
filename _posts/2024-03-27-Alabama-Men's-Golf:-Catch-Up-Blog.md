@@ -6,7 +6,7 @@ tags: [recap, alabama, college]
 author: [<Hilton>, <Luddy>]
 ---
  
- ##### Collaborative Blog by Writers RJ Luddy and Jackson Hilton
+ Collaborative Blog by Writers RJ Luddy and Jackson Hilton
  
 # 2024 Linger Longer Invitational, The Tide Takes it Home!
 
@@ -24,7 +24,7 @@ This victory extended Alabama's strong season and marks their third team champio
 
 Below are the highlights of the Tide's impressive performance:
 
-### Team Highlights
+### Linger Longer Team Highlights
 
 * __Team Score__: The Crimson Tide dominated the competition with a combined score of 40-under par (824). 
 * __Round Scores__: Consistency was evident throughout the tournament. Alabama carded rounds of __267-272-285__
@@ -33,7 +33,7 @@ Below are the highlights of the Tide's impressive performance:
 * __J.P. Cave__ finished runner-up at 10-under par (206).
 * __Canon Claycomb__ secured the third-place spot at 9-under par (207).
 
-### Individual Player Highlights
+### Linger Longer Individual Player Highlights
 
 * __Jonathan Griz:__ His impressive performance included a scorching 10-under 62 in the first round, propelling him to the lead. He maintained his composure throughout the tournament, securing his first career medalist honor.
 * __J.P. Cave:__ Cave's consistent play with rounds of 67-70-69 solidified his second-place finish.
@@ -64,12 +64,12 @@ After two days, the Crimson Tide finished 10th tying with Texas, carding 7-over 
 
 [Click Here To See The 2024 Valspar Inv. Final Scoreboard](https://results.golfstat.com/public/leaderboards/gsnav.cfm?pg=team&tid=28932)
 
-### Team Highlights
+### Valspar Team Highlights
 
 * __Team Score__: 7-over par (859 total)  
 * __Round Scores__: The Tide couldn't quite get it going this week, carding __293-285-281__ over three rounds. A final round 281 (-3) was the only under par outing as a team. 
 
-### Individual Player Highlights
+### Valspar Individual Player Highlights
 * Canon Claycomb finished T-15 (-1) carding 70-71-71
 * Thomas Ponder went low in round 3 with a 66 (-5), finishing T-32
 * JP Cave carded a round 2 68 (-3), finishing T-38
