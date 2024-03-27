@@ -6,7 +6,7 @@ tags: [recap, alabama, college]
 author: [<Hilton>, <Luddy>]
 ---
  
- ##### _Collaborative Blog by Writers RJ Luddy and Jackson Hilton_
+ ##### Collaborative Blog by Writers RJ Luddy and Jackson Hilton
  
 # 2024 Linger Longer Invitational, The Tide Takes it Home!
 
